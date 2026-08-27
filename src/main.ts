@@ -1,4 +1,4 @@
-import { ConfigWrapper } from './ui/config'
+import { ConfigWrapper } from './ui/Config'
 
 plugin.onConfig(() => {
   const element = document.createElement('div')
